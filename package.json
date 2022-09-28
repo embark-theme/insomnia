@@ -1,0 +1,30 @@
+{
+  "name": "insomnia-plugin-embark-theme",
+  "version": "1.0.2",
+  "description": "A dark theme for the app Insomnia",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirontoo/insomnia-plugin-embark-theme.git"
+  },
+  "insomnia": {
+    "name": "theme-embark",
+    "displayName": "Embark Theme",
+    "description": "Embark Theme",
+    "images": {
+      "cover": "screenshot.png"
+    }
+  },
+  "keywords": [
+    "embark",
+    "theme",
+    "insomnia",
+    "insomnia-plugin"
+  ],
+  "author": "kirontoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirontoo/insomnia-plugin-embark-theme/issues"
+  },
+  "homepage": "https://github.com/kirontoo/insomnia-plugin-embark-theme#readme"
+}
