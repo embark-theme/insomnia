@@ -5,7 +5,7 @@
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kirontoo/insomnia-plugin-embark-theme.git"
+    "url": "git+https://github.com/embark-theme/insomnia.git"
   },
   "insomnia": {
     "name": "theme-embark",
@@ -24,7 +24,7 @@
   "author": "kirontoo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kirontoo/insomnia-plugin-embark-theme/issues"
+    "url": "https://github.com/embark-theme/insomnia/issues"
   },
-  "homepage": "https://github.com/kirontoo/insomnia-plugin-embark-theme#readme"
+  "homepage": "https://github.com/embark-theme/insomnia#readme"
 }
