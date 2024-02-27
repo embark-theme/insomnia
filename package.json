@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-embark-theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An Insomnia theme for the ambitious",
   "main": "main.js",
   "repository": {
